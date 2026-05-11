@@ -1,6 +1,6 @@
 \# TCC - Restaurante Lorem & Ipsum (React + Next.js)
 
-Este repositorio contem duas implementacoes da mesma aplicacao (Restaurante Lorem & Ipsum) para comparar **Inversao de Controle (IoC)** no roteamento:
+Este repositorio contem duas implementacoes da mesma aplicacao (Restaurante Lorem & Ipsum) para meu TCC
 
 - **React + React Router (Vite)**: controle explicito do desenvolvedor.
 - **Next.js App Router**: controle do framework via rotas baseadas em arquivos.
