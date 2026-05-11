@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1",
+    "name": "Feijoada Completa",
+    "description": "Feijoada tradicional servida com arroz, couve, farofa e laranja",
+    "price": 45.9,
+    "category": "prato-principal",
+    "image": "https://cdn.pixabay.com/photo/2020/05/17/14/15/bean-stew-5181831_1280.jpg",
+    "ingredients": [
+      { "id": "i1", "name": "Feij\u00e3o preto" },
+      { "id": "i2", "name": "Carne de porco" },
+      { "id": "i3", "name": "Lingui\u00e7a" },
+      { "id": "i4", "name": "Bacon" },
+      { "id": "i5", "name": "Couve" },
+      { "id": "i6", "name": "Alho" },
+      { "id": "i7", "name": "Cebola" }
+    ],
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Moqueca de Peixe",
+    "description": "Peixe fresco em molho de leite de coco, dend\u00ea e temperos especiais",
+    "price": 52.9,
+    "category": "prato-principal",
+    "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=800&auto=format&fit=crop",
+    "ingredients": [
+      { "id": "i8", "name": "Peixe", "allergen": true },
+      { "id": "i9", "name": "Leite de coco" },
+      { "id": "i10", "name": "Azeite de dend\u00ea" },
+      { "id": "i11", "name": "Tomate" },
+      { "id": "i12", "name": "Piment\u00e3o" },
+      { "id": "i13", "name": "Coentro" }
+    ],
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Bife \u00e0 Parmegiana",
+    "description": "Bife empanado coberto com molho de tomate e queijo gratinado",
+    "price": 38.9,
+    "category": "prato-principal",
+    "image": "https://images.pexels.com/photos/29042349/pexels-photo-29042349.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "ingredients": [
+      { "id": "i14", "name": "Carne bovina" },
+      { "id": "i15", "name": "Queijo mussarela", "allergen": true },
+      { "id": "i16", "name": "Molho de tomate" },
+      { "id": "i17", "name": "Farinha de rosca", "allergen": true },
+      { "id": "i18", "name": "Ovo", "allergen": true }
+    ],
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Salada Caesar",
+    "description": "Alface romana, croutons, parmes\u00e3o e molho caesar",
+    "price": 28.9,
+    "category": "entrada",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=800&auto=format&fit=crop",
+    "ingredients": [
+      { "id": "i19", "name": "Alface romana" },
+      { "id": "i20", "name": "Queijo parmes\u00e3o", "allergen": true },
+      { "id": "i21", "name": "Croutons", "allergen": true },
+      { "id": "i22", "name": "Molho caesar" },
+      { "id": "i23", "name": "Peito de frango" }
+    ],
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Pudim de Leite",
+    "description": "Pudim caseiro cremoso com calda de caramelo",
+    "price": 15.9,
+    "category": "sobremesa",
+    "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=800&auto=format&fit=crop",
+    "ingredients": [
+      { "id": "i24", "name": "Leite condensado", "allergen": true },
+      { "id": "i25", "name": "Leite", "allergen": true },
+      { "id": "i26", "name": "Ovos", "allergen": true },
+      { "id": "i27", "name": "A\u00e7\u00facar" }
+    ],
+    "available": true
+  },
+  {
+    "id": "6",
+    "name": "Brigadeiro Gourmet",
+    "description": "Brigadeiro artesanal com cobertura de chocolate belga",
+    "price": 12.9,
+    "category": "sobremesa",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800&auto=format&fit=crop",
+    "ingredients": [
+      { "id": "i28", "name": "Leite condensado", "allergen": true },
+      { "id": "i29", "name": "Chocolate em p\u00f3" },
+      { "id": "i30", "name": "Manteiga", "allergen": true },
+      { "id": "i31", "name": "Chocolate granulado" }
+    ],
+    "available": true
+  },
+  {
+    "id": "7",
+    "name": "Suco Natural de Laranja",
+    "description": "Suco de laranja fresco espremido na hora",
+    "price": 8.9,
+    "category": "bebida",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=800&auto=format&fit=crop",
+    "ingredients": [
+      { "id": "i32", "name": "Laranja" },
+      { "id": "i33", "name": "\u00c1gua" },
+      { "id": "i34", "name": "A\u00e7\u00facar (opcional)" }
+    ],
+    "available": true
+  },
+  {
+    "id": "8",
+    "name": "Limonada Su\u00ed\u00e7a",
+    "description": "Limonada cremosa com leite condensado",
+    "price": 10.9,
+    "category": "bebida",
+    "image": "https://images.pexels.com/photos/96974/pexels-photo-96974.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "ingredients": [
+      { "id": "i35", "name": "Lim\u00e3o" },
+      { "id": "i36", "name": "Leite condensado", "allergen": true },
+      { "id": "i37", "name": "\u00c1gua" },
+      { "id": "i38", "name": "Gelo" }
+    ],
+    "available": true
+  }
+]
